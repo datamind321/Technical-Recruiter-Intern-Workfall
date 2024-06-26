@@ -1,6 +1,6 @@
 # Technical-Recruiter-Intern-Workfall
 
-Technical Recruiter Intern [!@Workfall](https://www.workfall.com/)
+Technical Recruiter Intern [@Workfall](https://www.workfall.com/)
 - full time
 - US Time Based
 - Recruitment
